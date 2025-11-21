@@ -37,10 +37,10 @@ For each model, the following evaluation artifacts were generated:
     ### SimpleCNN Confusion Matrix
 <img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/7ba89012-a075-42d6-9d81-b3da95334227" />
 
-    ### MobileNetV3-Small Confusion Matrix
+   ### MobileNetV3-Small Confusion Matrix
 <img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/c3be39dd-b07a-42d8-a174-ae7b2796ec56" />
 
-    ### EfficientNet-B0 Confusion Matrix
+   ### EfficientNet-B0 Confusion Matrix
 <img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/1fb7cfc4-c1fc-46da-8643-c3ef11849a16" />
 
 *   **Grad-CAM Visualizations**: Gradient-weighted Class Activation Mapping (Grad-CAM) images highlight the regions of an input image that were most important for the model's classification decision. These are crucial for understanding model interpretability and ensuring that the model is focusing on relevant features.
@@ -55,6 +55,7 @@ For each model, the following evaluation artifacts were generated:
 
     ### EfficientNet-B0 Grad-CAM Examples
     <img width="948" height="1064" alt="download (1)" src="https://github.com/user-attachments/assets/bc1b76a4-d483-49c7-a8ba-08c6e9e46109" />
+
 
 
 
