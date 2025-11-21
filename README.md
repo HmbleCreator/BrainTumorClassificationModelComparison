@@ -35,23 +35,26 @@ For each model, the following evaluation artifacts were generated:
 *   **Confusion Matrix**: A tabular visualization that allows for the performance of an algorithm to be seen visually. Each row of the matrix represents the instances in an actual class, while each column represents the instances in a predicted class.
 
     ### SimpleCNN Confusion Matrix
-    ![SimpleCNN Confusion Matrix](path/to/simple_cnn_confusion_matrix.png)
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/7ba89012-a075-42d6-9d81-b3da95334227" />
 
     ### MobileNetV3-Small Confusion Matrix
-    ![MobileNetV3-Small Confusion Matrix](path/to/mobilenetv3_small_confusion_matrix.png)
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/c3be39dd-b07a-42d8-a174-ae7b2796ec56" />
 
     ### EfficientNet-B0 Confusion Matrix
-    ![EfficientNet-B0 Confusion Matrix](path/to/efficientnet_b0_confusion_matrix.png)
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/1fb7cfc4-c1fc-46da-8643-c3ef11849a16" />
 
 *   **Grad-CAM Visualizations**: Gradient-weighted Class Activation Mapping (Grad-CAM) images highlight the regions of an input image that were most important for the model's classification decision. These are crucial for understanding model interpretability and ensuring that the model is focusing on relevant features.
 
     ### SimpleCNN Grad-CAM Examples
-    ![SimpleCNN Grad-CAM](path/to/simple_cnn_grad_cam.png)
+    <img width="948" height="1064" alt="download (3)" src="https://github.com/user-attachments/assets/b3e224a2-a2a6-47d6-afd4-c1958486986b" />
+
 
     ### MobileNetV3-Small Grad-CAM Examples
-    ![MobileNetV3-Small Grad-CAM](path/to/mobilenetv3_small_grad_cam.png)
+    <img width="948" height="1064" alt="download" src="https://github.com/user-attachments/assets/665209ea-d3bc-4167-b03c-219300960504" />
+
 
     ### EfficientNet-B0 Grad-CAM Examples
-    ![EfficientNet-B0 Grad-CAM](path/to/efficientnet_b0_grad_cam.png)
+    <img width="948" height="1064" alt="download (1)" src="https://github.com/user-attachments/assets/bc1b76a4-d483-49c7-a8ba-08c6e9e46109" />
 
-**Note**: Replace `path/to/your_image.png` with the actual file paths where you save your generated images.
+
+
